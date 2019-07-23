@@ -1,0 +1,38 @@
+:root {
+  --fresh-green: #7bdb4c;
+  --bluish-grey: #789199;
+  --gunmetal: #555d60;
+  --warm-grey: #8e8e8e;
+  --salmon: #ff7676;
+  --black: #000000;
+  --white: #ffffff;
+  font-family: Lato;
+}
+
+/* Text styles */
+#Text-Style-1 {
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  color: var(--black);
+}
+
+#Text-Style-2 {
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #000000;
+  color: var(--black);};
+
+  .White {
+    color: fff;
+  }
